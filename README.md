@@ -4,7 +4,7 @@ Site café-vie-privée.fr
 Environnement
 -------------
 
-Le site [café-vie-privée.fr](https://café-vie-privée.fr) est généré en utilisant [Middleman](https://middlemanapp.com/).
+Le site [café-vie-privée.fr](https://xn--caf-vie-prive-dhbj.fr) est généré en utilisant [Middleman](https://middlemanapp.com/).
  
 Pour l'installer, vous devez disposer d'un environnement Ruby fonctionnel. Si vous n'en avez pas, vous pouvez installer 
 *[rbenv](https://github.com/sstephenson/rbenv)*. Installez ensuite Middleman en lançant :
